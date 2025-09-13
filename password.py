@@ -71,5 +71,6 @@ if __name__ == "__main__":
                                  avoid_ambiguous=avoid_ambiguous)
 
     print("\nYour password:\n", password)
-    input("\nPress Enter to exit...")
+
+
 input("\nPress Enter to exit...")
